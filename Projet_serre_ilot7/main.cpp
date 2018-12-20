@@ -12,11 +12,14 @@
  */
 
 #include <QApplication>
+#include <iostream>
+
+using namespace std;
 
 int main(int argc, char *argv[]) {
-    // initialize resources, if needed
-    // Q_INIT_RESOURCE(resfile);
-
+    
+    cout << "Test 1" << endl;
+    
     QApplication app(argc, argv);
 
     // create and show your widgets here
