@@ -19,6 +19,7 @@ using namespace std;
 int main(int argc, char *argv[]) {
     
     cout << "Test1" << endl;
+    cout << "Test2" << endl;
     
     QApplication app(argc, argv);
 
