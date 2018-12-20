@@ -18,7 +18,7 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
     
-    cout << "Test 1" << endl;
+    cout << "Test1" << endl;
     
     QApplication app(argc, argv);
 
