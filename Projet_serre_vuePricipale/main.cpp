@@ -12,10 +12,13 @@
  */
 
 #include <QApplication>
+#include <iostream>
+
+using namespace std;
 
 int main(int argc, char *argv[]) {
-    // initialize resources, if needed
-    // Q_INIT_RESOURCE(resfile);
+    
+    cout << "Test Alan" << endl;
 
     QApplication app(argc, argv);
 
