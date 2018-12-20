@@ -16,6 +16,7 @@ int main(int argc, char *argv[]) {
     cout << "Test2" << endl;
     cout << "Test3" << endl;
     cout << "Test4" << endl;
+    cout << "Test5" << endl;
     
     QApplication app(argc, argv);
 
