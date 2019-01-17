@@ -16,7 +16,6 @@
 
 class InfoClimat {
 public:
-    int mamadou;
     int hygrometrie;
     int temperature;
     int positionOuvrants;
