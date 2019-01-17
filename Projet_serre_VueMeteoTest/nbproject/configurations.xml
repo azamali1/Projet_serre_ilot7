@@ -28,6 +28,19 @@
                    kind="IMPORTANT_FILES_FOLDER">
       <itemPath>Makefile</itemPath>
     </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <itemPath>../ClassesMetier/BulletinMeteo.cpp</itemPath>
+    <itemPath>../ClassesMetier/BulletinMeteo.h</itemPath>
   </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -42,6 +55,10 @@
       </qt>
       <compileType>
       </compileType>
+      <item path="../ClassesMetier/BulletinMeteo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/BulletinMeteo.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="VueMeteo.cpp.cc" ex="false" tool="1" flavor2="0">
       </item>
       <item path="VueMeteo.h" ex="false" tool="3" flavor2="0">
@@ -75,6 +92,10 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="../ClassesMetier/BulletinMeteo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/BulletinMeteo.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="VueMeteo.cpp.cc" ex="false" tool="1" flavor2="0">
       </item>
       <item path="VueMeteo.h" ex="false" tool="3" flavor2="0">

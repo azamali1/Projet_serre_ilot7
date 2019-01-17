@@ -24,3 +24,4 @@ void VueMeteo::mettreAJour(){
     widget.vitesseVent->setText("45");
     widget.temperature->setText("26");
 }
+
